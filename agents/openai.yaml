@@ -1,0 +1,7 @@
+interface:
+  display_name: "秩野Vibe爆款选题雷达"
+  short_description: "为秩野Vibe搜索趋势、结合账号数据筛选并排序可持续爆款选题"
+  default_prompt: "Use $vibe-topic-radar to research and rank the next Xiaohongshu topics for 秩野Vibe."
+
+policy:
+  allow_implicit_invocation: true
